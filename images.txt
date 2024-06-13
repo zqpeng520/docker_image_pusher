@@ -1,2 +1,2 @@
 nginx
---platform=linux/arm64 xiaoyaliu/alist:latest
+--platform=linux/amd64 xiaoyaliu/alist:latest
