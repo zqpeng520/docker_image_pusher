@@ -1,2 +1,2 @@
 nginx
---platform=linux/arm64 nyanmisaka/jellyfin
+--platform=linux/arm64 xiaoyaliu/alist:latest
